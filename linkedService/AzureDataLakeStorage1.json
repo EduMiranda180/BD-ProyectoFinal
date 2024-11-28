@@ -1,0 +1,13 @@
+{
+	"name": "AzureDataLakeStorage1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "Servicio para vincular data factory ocn azure data lake storege gen 2",
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://amiranda.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEE3QjhDNkY1LUE3RUMtNDk1Mi04NDFGLTM5NjQ0RjVDRTc3Q182NmY4MTlkYy0wNmJmLTQwOWMtYWE0Yy01MDhlZjhjOGZmZjIiDQp9"
+		}
+	}
+}
