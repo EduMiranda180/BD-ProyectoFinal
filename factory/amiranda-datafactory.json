@@ -1,0 +1,9 @@
+{
+	"name": "amiranda-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d388210-8e7c-4f8b-8c52-b80f67896d07",
+		"tenantId": "3c1a83ad-7362-4704-86fe-850e140ff54a"
+	}
+}
