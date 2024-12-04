@@ -1,6 +1,7 @@
 {
 	"name": "capaplata_capaoro",
 	"properties": {
+		"description": "migrar",
 		"activities": [
 			{
 				"name": "Notebook1",
